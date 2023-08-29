@@ -10,7 +10,7 @@ classifiers = [
  
 setup(
   name='numbars',
-  version='1.0.2',
+  version='1.0.3',
   description='A python library that allows you to add, subtract, multiply, divide, and randomize numbers.',
   long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
   url='',  
