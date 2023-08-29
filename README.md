@@ -11,5 +11,8 @@ To install and use numbars, do the following steps!
 `pip install numbars`
 - And you should be good to go :D
 
+# Documentation
+[Documentation (leads to wiki page of this repo)](https://github.com/zelofi/numbars/wiki)
+
 # Links
 [PyPi page for numbars](https://pypi.org/project/numbars/)
