@@ -12,5 +12,5 @@ def multiply_numbers(one, two):
 def divide_numbers(one, two):
     return one / two
 
-def random_numbers(min, max):
+def randomize_numbers(min, max):
     return random.randint(min, max)
